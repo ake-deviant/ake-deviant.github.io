@@ -1,0 +1,20 @@
+<svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g filter="url(#shadow)">
+    <path d="M123.5 11L130.8 34.8C137.3 36.7 143.4 39.2 149.1 42.4L171 30.8L189.2 49L177.6 70.9C180.8 76.6 183.3 82.7 185.2 89.2L209 96.5V123.5L185.2 130.8C183.3 137.3 180.8 143.4 177.6 149.1L189.2 171L171 189.2L149.1 177.6C143.4 180.8 137.3 183.3 130.8 185.2L123.5 209H96.5L89.2 185.2C82.7 183.3 76.6 180.8 70.9 177.6L49 189.2L30.8 171L42.4 149.1C39.2 143.4 36.7 137.3 34.8 130.8L11 123.5V96.5L34.8 89.2C36.7 82.7 39.2 76.6 42.4 70.9L30.8 49L49 30.8L70.9 42.4C76.6 39.2 82.7 36.7 89.2 34.8L96.5 11H123.5Z" fill="#C8A66B" stroke="#5B4225" stroke-width="7" stroke-linejoin="round"/>
+    <circle cx="110" cy="110" r="58" fill="#D9BE84" stroke="#5B4225" stroke-width="7"/>
+    <circle cx="110" cy="110" r="24" fill="#6E5634" stroke="#3A2A18" stroke-width="7"/>
+    <path d="M110 52V83" stroke="#6E5634" stroke-width="8" stroke-linecap="round"/>
+    <path d="M110 137V168" stroke="#6E5634" stroke-width="8" stroke-linecap="round"/>
+    <path d="M52 110H83" stroke="#6E5634" stroke-width="8" stroke-linecap="round"/>
+    <path d="M137 110H168" stroke="#6E5634" stroke-width="8" stroke-linecap="round"/>
+    <path d="M69 69L91 91" stroke="#6E5634" stroke-width="8" stroke-linecap="round"/>
+    <path d="M129 129L151 151" stroke="#6E5634" stroke-width="8" stroke-linecap="round"/>
+    <path d="M151 69L129 91" stroke="#6E5634" stroke-width="8" stroke-linecap="round"/>
+    <path d="M91 129L69 151" stroke="#6E5634" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <defs>
+    <filter id="shadow" x="0" y="0" width="220" height="220" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="12" stdDeviation="10" flood-color="#1B1108" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+</svg>
